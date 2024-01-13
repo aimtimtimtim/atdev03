@@ -1,4 +1,4 @@
-### Hello I'm Tim. Junior Front-and developer
+### Hello I'm Tim. Junior front-end developer
 
 
 ## Skills
